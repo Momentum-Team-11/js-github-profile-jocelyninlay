@@ -1,0 +1,27 @@
+.heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 2em;
+}
+#name {
+   display: inline; 
+}
+
+#Profile {
+box-shadow: 10px 10px 12px lightgrey inset;
+padding: 2em;
+margin: 2em;
+}
+
+img {
+    border-radius: 50%;
+    height: 200px;
+    width: auto;
+}
+
+h3 {
+    background-color: lightgrey;
+    margin: 1em;
+    padding: 2em;
+}
