@@ -25,3 +25,7 @@ h3 {
     margin: 1em;
     padding: 2em;
 }
+
+#repos {
+    display: block;
+}
